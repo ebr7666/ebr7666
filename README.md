@@ -4,25 +4,11 @@
 <a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile" target="_blank">
 <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=346331&theme=light&period=daily" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a> &nbsp; 
 <a href="https://www.producthunt.com/posts/beautify-github-profile?utm_source=badge-review&utm_medium=badge&utm_souce=badge-beautify&#0045;github&#0045;profile#discussion-body" target="_blank">
-<img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square"><img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
+<img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=346331&theme=light" alt="Beautify&#0032;Github&#0032;Profile - Create&#0032;a&#0032;beautiful&#0032;and&#0032;attractive&#0032;github&#0032;profile&#0032;very&#0032;easy | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54"/></a><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rzashakeri/beautify-github-profile?style=flat-square"><img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square"><img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
 
 ---
 
 # Hello friends 馃枑锔�
-
-how are you If you want to make the look of your github profile more beautiful, you have come to the right place
-
-# 馃摉 Table of Contents
-
-- [馃搶 The first step : Set up the GitHub Repository](#-the-first-step--set-up-the-github-repository)
-- [馃挕 Where do we get ideas ?](#-where-do-we-get-ideas-)
-- [馃毄 What do we do after seeing these profiles ?](#-what-do-we-do-after-seeing-these-profiles-)
-  - [馃З Badges 馃憞](#-badges-)
-  - [馃洜锔� Widgets 馃憞](#%EF%B8%8F-widgets-)
-  - [鉁� Icons 馃憞](#-icons-)
-- [Give A Star 猸怾(#give-a-star-)
 
 # 馃搶 The first step : Set up the GitHub Repository
 
@@ -64,7 +50,7 @@ Well, so far you have been able to find cool ideas from the profiles of differen
 
 A list of badges and cards, with their Markdown code, that can be included in a README.md file for a GitHub
 
-馃搷 For example : &nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) &nbsp; [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) &nbsp; [![GitHub forks](https://badgen.net/github/forks/Naereen/Strapdown.js/)](https://GitHub.com/Naereen/StrapDown.js/network/) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+馃搷 For example : &nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) &nbsp; [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/) &nbsp; [![GitHub forks](https://badgen.net/github/forks/ebrahim64/Strapdown.js/)](https://GitHub.com/ebrahim64/StrapDown.js/network/) &nbsp; [![GitHub stars](https://img.shields.io/github/stars/ebrahim/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ebrahim64/StrapDown.js/stargazers/)
 
 #### 2 . [Markdown badges in many different categories ](https://github.com/Ileriayo/markdown-badges)
 
@@ -72,7 +58,7 @@ Badges for your personal developer branding, profile, and projects.
 <br/>
 <br/>
 
-馃搷 For example : &nbsp; ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+馃搷 For example : &nbsp; ![Bbootstrap](https://img.shields.io/badge/Bbootstrap-000?style=for-the-badge&logo=bootstrap &logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br/>
 <br/>
 
