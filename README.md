@@ -1,9 +1,4 @@
-
-      <!--
-**IBRAHIM/Ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
-
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> 👋 Im Ibrahim Mohammed </h1>
 <div align="center">
   <img src="https://github.com/ebragim64/ebrahim64/blob/master/images/header.gif" alt="header"/>
 </div>
@@ -17,23 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=ebrahim" alt="https://github.com/ebrahim64" />
 </p>
 
-<hr>
-t="blogger" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
- <a href="#">
-    <img src="svg/blogs/devto.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="svg/blogs/medium.svg" alt="medium" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-
-    
-    
-
-
+<hr> 
 </p>
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
