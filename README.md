@@ -34,18 +34,11 @@
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
-🏢 I'm currently working at **Worklife**
-- 🚀 I use daily:
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-
-   <img src ="https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python"
-/>&nbsp;&nbsp;
-
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
@@ -61,14 +54,14 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-- 🌱 Learning all about:
+- 🌱 Learning al
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
+
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=ebrahim64&theme=dark&show_icons=true)](https://github.com/ebrahim64)
 [![moshfiqrony's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9418800)](https://stackoverflow.com/users/9418800/moshfiqrony)
 
 <p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
@@ -90,6 +83,3 @@
   <a href="mailto:ibrahim.mohmmed66@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
-<h2  align="center">💻 ⬇️ </h2>
