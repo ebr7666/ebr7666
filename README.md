@@ -26,12 +26,22 @@
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;  
   <img src="https://img.shields.io/badge/MySQL%20-%231572B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;
       
-   <img src="https://img.shields.io/badge/pho%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/keras%20-%231572B6.svg?&style=for-the-badge&logo=keras&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/tensorflow%20-%231572B6.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;&nbsp;   
    <img src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp;&nbsp;    
+
+   <img src="https://img.shields.io/badge/pandas%20-%231572B6.svg?&style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/bootstraps%20-%231572B6.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/c#%20-%231572B6.svg?&style=for-the-badge&logo=c#&logoColor=white" />&nbsp;&nbsp;
       
+     <img src="https://img.shields.io/badge/matlap%20-%231572B6.svg?&style=for-the-badge&logo=matlap&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
       
+    <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
 
