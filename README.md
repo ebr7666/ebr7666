@@ -32,7 +32,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
-- 🌱 Learning all about:
+  Learning all about:
 
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
@@ -42,7 +42,7 @@
 
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=ebrahim64&theme=dark&show_icons=true)](https://github.com/ebrahim64)
 
-<hr>
+
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
