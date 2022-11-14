@@ -15,23 +15,14 @@
 <hr> 
 </p>
 <h2 align="center"> 🔭 Tools of languages</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/django%20-%2300D9FF.svg?&style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;  
-  <img src="https://img.shields.io/badge/MySQL%20-%231572B6.svg?&style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp;&nbsp;    
-  <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/keras%20-%231572B6.svg?&style=for-the-badge&logo=keras&logoColor=white" />&nbsp;&nbsp;
-<\b>
- 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Keras](https://img.shields.io/badge/-keras-3b2e5a?style=plastic&logo=keras)
-  ![python](https://img.shields.io/badge/-python-0081CB?style=plastic&logo=python)
+  ![python](https://img.shields.io/badge/-python-FCA121?style=plastic&logo=python)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=plastic&logo=Mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-FCA121?style=plastic&logo=Mysql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![TensorFlow](https://img.shields.io/badge/-Tensorflow-FCA121?style=plastic&logo=tensorfolw)
@@ -44,6 +35,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
+- 
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
@@ -53,15 +45,6 @@
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=ebrahim64&theme=dark&show_icons=true)](https://github.com/ebrahim64)
 
 <p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
-
-<hr>
-
-<h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
