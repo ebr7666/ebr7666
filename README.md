@@ -8,13 +8,10 @@
 
   <samp>A highly resourceful computer programmer and well-rounded IT professional of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
-  <br> <br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=ebrahim" alt="https://github.com/ebrahim64" />
-
-
-<hr> 
 </p>
-<h2 align="center"> 🔭 Tools of languages</h2>
+<h2> Tools of languages</h2>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -45,7 +42,6 @@
 
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=ebrahim64&theme=dark&show_icons=true)](https://github.com/ebrahim64)
 
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
 <hr>
 
 <h2  align="center">📫 Reach me on</h2>
