@@ -5,12 +5,12 @@
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Who am i ?</h2>
-<p align="center">
+
   <samp>A highly resourceful computer programmer and well-rounded IT professional of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=ebrahim" alt="https://github.com/ebrahim64" />
-</p>
+
 
 <hr> 
 </p>
@@ -36,6 +36,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
+
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
